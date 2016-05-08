@@ -1,1 +1,3 @@
-# Better-Discord-Themes
+# Better Discord Themes
+Themes.
+My themes.
